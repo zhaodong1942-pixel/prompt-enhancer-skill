@@ -1,0 +1,5 @@
+# 此仓库只存放 prompt-enhancer 技能；工作区内其他内容（逆向产物）全部忽略
+/*
+!/prompt-enhancer/
+!/prompt-enhancer/**
+!.gitignore
